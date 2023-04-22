@@ -1,15 +1,13 @@
 # i_am_rich
-
-A new Flutter project.
+A simple flutter app that replicates a simple version of the i am rich app, with just an image
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- git clone git@github.com:bethel-m/i_am_rich.git
+- cd  i_am_rich
+- flutter pub get
+- flutter run 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
